@@ -1,2 +1,9 @@
-# gpu-puzzles-practice
-My journey through GPU Puzzles to build intuition for parallel computing.
+# GPU Puzzles Practice 🧩
+
+My solutions and notes for [Sasha Rush's GPU Puzzles](https://github.com/srush/GPU-Puzzles).
+
+## 🚀 Status
+- [ ] Map
+- [ ] Zip
+- [ ] Guards
+- [ ] ...
